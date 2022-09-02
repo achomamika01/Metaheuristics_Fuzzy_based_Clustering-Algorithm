@@ -2,7 +2,7 @@
 """
 Created on Sun Jul 24 07:31:51 2022
 
-@author: Shyamchand Salam
+@author: Amika Achom
 """
 
 #function import
